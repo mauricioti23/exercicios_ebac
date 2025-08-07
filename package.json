@@ -1,0 +1,10 @@
+{
+  "name": "agenda-contatos-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
